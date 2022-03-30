@@ -50,6 +50,19 @@ input[type="button"]:hover{
     transition: .5s;
     background: linear-gradient(#bfbfbf,#d9d9d9);
 }
+input#clear{
+    background: #ff1a1a;
+    border: 1px solid #cc0000;
+    color: white;
+}
+input#equal{
+    width: 275px;
+    margin: 10px 0 10px 0;
+    font-size: 30px;
+    color: white;
+    background: #ff3d00;
+    border: 1px solid #b32a00;
+}
 
 
 
